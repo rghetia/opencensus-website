@@ -34,7 +34,7 @@ any application that supported by any of the "OpenCensus Agent receivers", regar
 Developing exporters only for one language "Go" dramatically scales infrastructure development and deployment, as
 observability backends no longer have to develop exporters in [every 1 of the 9+ languages that OpenCensus supports.](/language-support)
 
-* <b>Democratizes deployments</b> for cloud providers because cloud providers can define the backends/exporters
+* <b>Democratizes deployments</b> for cloud providers because they can define the backends/exporters
 that ocagent sends data to.
 
 ##### For Application Developers ...
